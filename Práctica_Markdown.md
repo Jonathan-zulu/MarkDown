@@ -162,4 +162,4 @@ En línea encerrando la fórmula entre signos de `$` En párrafos centrados, enc
 - Fracciones $$ x = \frac {-b \pm \sqrt{b² - 4ac}}{2a}$$
 - Paréntesis grandes: $$\left (\sqrt{x²}\right)²$$
 - Colores:
-$$ aBb123\color {red} {G}$$
+$${\color{yellow}{A}}abc123$$
